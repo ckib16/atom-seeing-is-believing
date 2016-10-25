@@ -33,6 +33,11 @@ Snippets (use SiB to play around with ideas without needing a complex environmen
 
 Or, you can do it from the command line `$ apm install seeing-is-believing`
 
+### Install Snippets (optional)
+* Copy raw snippet source code from the [snippet source file in this repo](https://github.com/JoshCheek/atom-seeing-is-believing/blob/master/snippets/seeing-is-believing.cson)
+* Atom -> Snippets
+* Paste snippet code
+* Save
 
 ## You need [Seeing Is Believing](https://github.com/JoshCheek/seeing_is_believing) installed
 
