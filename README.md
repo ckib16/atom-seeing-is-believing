@@ -17,7 +17,8 @@ Keybindings:
 * `Command+Option+N` to annotate just marked lines (mark them by placing `# =>` after them, or below them)
 * `Command+Option+V` to remove annotations
 
-Snippets (use SiB to play around with ideas without needing a complex environment):
+Snippets (use SiB to play around with ideas without needing a complex environment):  
+*Note: ensure file type is set to `Ruby` to ensure Atom will recognize the snippets*
 
 * `s_arb` in-memory ActiveRecord::Base code, so you can play with models without Rails.
 * `s_sinatra` Example Sinatra app with Rack-style invocation setup for you to play with.
@@ -32,12 +33,6 @@ Snippets (use SiB to play around with ideas without needing a complex environmen
 * Click "install"
 
 Or, you can do it from the command line `$ apm install seeing-is-believing`
-
-### Install Snippets (optional)
-* Copy raw snippet source code from the [snippet source file in this repo](https://github.com/JoshCheek/atom-seeing-is-believing/blob/master/snippets/seeing-is-believing.cson)
-* Atom -> Snippets
-* Paste snippet code
-* Save
 
 ## You need [Seeing Is Believing](https://github.com/JoshCheek/seeing_is_believing) installed
 
